@@ -1,5 +1,4 @@
 package funcoes.entidades;
-import java.util.Scanner;
 
 public class Exercicio00
 {
