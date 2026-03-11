@@ -1,5 +1,8 @@
 package funcoes.entidades;
 
+
+
+
 public class Exercicio00
 {
     public  void mensagem ()
@@ -25,4 +28,6 @@ public class Exercicio00
     }
 
 }
+
+    //Relativo ao exercicio 128
 
