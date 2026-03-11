@@ -1,5 +1,7 @@
 package funcoes.entidades;
-import java.util.Scanner;
+
+
+
 
 public class Exercicio00
 {
@@ -26,4 +28,6 @@ public class Exercicio00
     }
 
 }
+
+    //Relativo ao exercicio 128
 
