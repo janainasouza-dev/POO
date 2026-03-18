@@ -2,10 +2,12 @@ package funcoes.aplicacao;
 
 import funcoes.entidades.Exercicio00;
 import java.util.Scanner;
+import java.util.Locale;
 
 public class App
 {
     public static void main(String[] args) {
+        Locale.setDefault(Locale.US);
         Exercicio00 exemplo = new Exercicio00();
         Scanner entrada = new Scanner(System.in);
         
